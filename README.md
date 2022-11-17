@@ -63,15 +63,13 @@
     <img title="kubernetes!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/kubernetes/6062ba" />
     <img title="k3s!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/k3s/6062ba" />
     <img title="fedora!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/fedora/6062ba" />
-  </p>
-  <p>
     <img title="ansible!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/ansible/6062ba" />
+  </p>
+  <p> 
     <img title="terraform!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/terraform/6062ba" />
     <img title="openstack!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/openstack/6062ba" />
     <img title="deno!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/deno/6062ba" />
     <img title="astro!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/astro/6062ba" />
-  </p>
-  <p>
     <img title="d3js!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/d3dotjs/6062ba" />
     <img title="tailwind css!" height="65px" width="65px" hspace=10 src="https://cdn.simpleicons.org/tailwindcss/6062ba" />
   </p>
