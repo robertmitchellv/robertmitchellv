@@ -79,8 +79,7 @@
 
 <h3><code> current_role </code></h3>
 
-- __Senior Data Engineer__ 
-  + [Skylight](https://skylight.digital)
+- __Senior Data Engineer__ [@Skylight](https://skylight.digital)
   + Skylight is a digital government consultancy driven by making government work in a digital world through design, technology, and procurement
   + Supporting [CDCgov/phdi](https://github.com/CDCgov/phdi)
   + April 2023 to Present
