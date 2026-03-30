@@ -98,8 +98,7 @@
 
 - __Senior Data Engineer__ [@Skylight](https://skylight.digital)
   + Skylight is a digital government consultancy driven by making government work in a digital world through design, technology, and procurement
-  + Supporting [CDCgov/dibbs-ecr-viewer](https://github.com/CDCgov/dibbs-ecr-viewer)
-  + Supporting [CDCgov/dibbs-star-wars-ecr-data](https://github.com/CDCgov/dibbs-star-wars-ecr-data)
+  + Supporting [CDCgov/dibbs-ecr-refiner](https://github.com/CDCgov/dibbs-ecr-refiner)
   + April 2023 to Present
 
 <br>
