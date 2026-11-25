@@ -86,9 +86,13 @@
 
 <h3><code> current_role </code></h3>
 
-- **Senior Data Engineer** [@Skylight](https://skylight.digital)
+- **Senior Software Engineer** [@Skylight](https://skylight.digital)
   - Skylight is a digital government consultancy driven by making government work in a digital world through design, technology, and procurement
   - Supporting [CDCgov/dibbs-ecr-refiner](https://github.com/CDCgov/dibbs-ecr-refiner)
+  - Supporting [CDCgov/dibbs-ecr-diff](https://github.com/CDCgov/dibbs-ecr-diff)
+  - Supporting [CDCgov/dibbs-ecr-viewer](https://github.com/CDCgov/dibbs-ecr-viewer)
+  - Supporting [CDCgov/dibbs-text-to-code](https://github.com/CDCgov/dibbs-text-to-code)
+  - Supporting [CDCgov/dibbs-query-connector](https://github.com/CDCgov/dibbs-query-connector)
   - April 2023 to Present
 
 <br>
